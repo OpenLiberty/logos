@@ -1,0 +1,21 @@
+By using the Open Liberty logos, you agree that you are subject to and will comply with the terms of use set forth below.  
+
+You are permitted to display and use the Open Liberty logos unmodified for the purpose of referencing the Open Liberty project or runtime in the following way:
+
+* Linking to the Open Liberty website, GitHub organization, or repositories
+* Accurate statements about the compatibility of your product with Open Liberty
+* In text references containing factual statements about Open Liberty
+
+You are not permitted to use the Open Liberty logo in the following way:
+
+* To represent any application or project, other than Open Liberty 
+* To represent yourself as an official spokesperson of the Open Liberty project
+* For the purpose of creating a modified version or altering Open Liberty logos
+* For the purpose of integrating the Open Liberty logo with other company, product, or service names and logos
+
+The Open Liberty logos are trademarks or registered trademarks of International Business Machines Corp. 
+
+For additional information about IBM trademarks, please go to: https://www.ibm.com/legal/us/en/copytrade.shtml[IBM Copyright and trademark conditions].
+
+
+
